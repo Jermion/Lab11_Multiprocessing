@@ -11,6 +11,7 @@
  * - Proof-read the code
  * - Help develop portions of code when I was confused
  * - Make sure the code followed the Lab requirements
+ * - Gave reference code to base off of
 **/
 
 #include <stdio.h>

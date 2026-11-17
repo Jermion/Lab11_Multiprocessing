@@ -2,7 +2,7 @@
 
 **Name:** Joshua Simon  
 **Course:** CPE2600 - Systems Programming  
-**Section:** [Enter section number]
+**Section:** 111
 
 ## 1. Program Overview
 
